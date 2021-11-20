@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/gradient_bg"
+    tools:context=".project1.LingkaranFragment">
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="44dp"
+        android:layout_marginRight="50dp"
+        android:gravity="center"
+        android:text="Menghitung Luas dan Keliling Lingkaran"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="@color/white"
+        android:textSize="20dp"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/ejari"
+        android:layout_width="wrap_content"
+        android:layout_height="35dp"
+        android:layout_alignBaseline="@+id/textView2"
+        android:layout_alignBottom="@+id/textView2"
+        android:layout_marginLeft="27dp"
+        android:layout_marginBottom="-12dp"
+        android:layout_toRightOf="@+id/textView2"
+        android:background="@drawable/edittxt_bg"
+        android:ems="10"
+        android:inputType="number"
+        android:paddingLeft="15dp"
+        android:textColor="@color/white"
+        android:textSize="18sp">
+
+        <requestFocus />
+    </EditText>
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView1"
+        android:layout_alignLeft="@+id/textView1"
+        android:layout_marginLeft="-9dp"
+        android:layout_marginTop="40dp"
+        android:text="Jari-jari"
+        android:textColor="@color/white"
+        android:textSize="16sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/btnhps"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/btnproseskk"
+        android:layout_alignBottom="@+id/btnproseskk"
+        android:layout_marginLeft="-121dp"
+        android:layout_marginBottom="-3dp"
+        android:layout_toRightOf="@+id/textView1"
+        android:background="@drawable/button_bg"
+        android:onClick="myClickHandler"
+        android:text="Hapus"
+        android:textColor="@color/white" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/eluas"
+        android:layout_alignLeft="@+id/textView2"
+        android:layout_alignBottom="@+id/eluas"
+        android:text="Luas"
+        android:textColor="@color/white"
+        android:textSize="16sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/ekeliling"
+        android:layout_alignRight="@+id/textView3"
+        android:layout_alignBottom="@+id/ekeliling"
+        android:layout_marginRight="-18dp"
+        android:layout_marginBottom="7dp"
+        android:text="Keliling"
+        android:textColor="@color/white"
+        android:textSize="16sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/btnprosesll"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/ejari"
+        android:layout_alignLeft="@+id/ejari"
+        android:layout_marginTop="21dp"
+        android:background="@drawable/button_bg"
+        android:onClick="myClickHandler"
+        android:text="LUAS"
+        android:textColor="@color/white" />
+
+    <Button
+        android:id="@+id/btnproseskk"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/ejari"
+        android:layout_alignLeft="@+id/ejari"
+        android:layout_marginLeft="0dp"
+        android:layout_marginTop="79dp"
+        android:background="@drawable/button_bg"
+        android:onClick="myClickHandler"
+        android:text="KELILING"
+        android:textColor="@color/white" />
+
+    <EditText
+        android:id="@+id/eluas"
+        android:layout_width="wrap_content"
+        android:layout_height="35dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_centerVertical="true"
+        android:layout_marginStart="113dp"
+        android:layout_marginLeft="3dp"
+        android:layout_marginEnd="89dp"
+        android:background="@drawable/edittxt_bg"
+        android:ems="10"
+        android:paddingLeft="15dp"
+        android:textColor="@color/white"
+        android:textSize="18sp" />
+
+    <EditText
+        android:id="@+id/ekeliling"
+        android:layout_width="wrap_content"
+        android:layout_height="35dp"
+        android:layout_below="@+id/eluas"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="113dp"
+        android:layout_marginTop="29dp"
+        android:layout_marginEnd="88dp"
+        android:background="@drawable/edittxt_bg"
+        android:ems="10"
+        android:paddingLeft="15dp"
+        android:textColor="@color/white"
+        android:textSize="18sp" />
+
+    <Button
+        android:id="@+id/logout_button"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/ekeliling"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="80dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="56dp"
+        android:layout_marginEnd="80dp"
+        android:layout_marginRight="10dp"
+        android:background="@drawable/button_bg"
+        android:text="@string/log_out"
+        android:textAllCaps="true"
+        android:textColor="@color/white"
+        android:textSize="16sp" />
+
+</RelativeLayout>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/pemrograman/UAS/My AppUAS/MyAppUAS/app/src/main/res/drawable-v24/ic_icon.xml" value="0.11614583333333334" />
+        <entry key="..\:/pemrograman/UAS/My AppUAS/MyAppUAS/app/src/main/res/drawable-v24/selector_2.xml" value="0.18611111111111112" />
+        <entry key="..\:/pemrograman/UAS/My AppUAS/MyAppUAS/app/src/main/res/drawable/button_bg2.xml" value="0.22205128205128205" />
+        <entry key="..\:/pemrograman/UAS/My AppUAS/MyAppUAS/app/src/main/res/drawable/button_bg3.xml" value="0.11614583333333334" />
+        <entry key="..\:/pemrograman/UAS/My AppUAS/MyAppUAS/app/src/main/res/drawable/edit_text_bg.xml" value="0.22205128205128205" />
+        <entry key="..\:/pemrograman/UAS/My AppUAS/MyAppUAS/app/src/main/res/drawable/edittxt_bg.xml" value="0.22205128205128205" />
+        <entry key="..\:/pemrograman/UAS/My AppUAS/MyAppUAS/app/src/main/res/drawable/edittxt_bg2.xml" value="0.22205128205128205" />
+        <entry key="..\:/pemrograman/UAS/My AppUAS/MyAppUAS/app/src/main/res/drawable/edittxt_bg3.xml" value="0.22205128205128205" />
+        <entry key="..\:/pemrograman/UAS/My AppUAS/MyAppUAS/app/src/main/res/drawable/gradient_bg.xml" value="0.22205128205128205" />
+        <entry key="..\:/pemrograman/UAS/My AppUAS/MyAppUAS/app/src/main/res/drawable/gradient_bg2.xml" value="0.2" />
+        <entry key="..\:/pemrograman/UAS/My AppUAS/MyAppUAS/app/src/main/res/drawable/nav_bg.xml" value="0.22205128205128205" />
+        <entry key="..\:/pemrograman/UAS/My AppUAS/MyAppUAS/app/src/main/res/drawable/nav_bg2.xml" value="0.22205128205128205" />
+        <entry key="..\:/pemrograman/UAS/My AppUAS/MyAppUAS/app/src/main/res/drawable/selector.xml" value="0.22205128205128205" />
+        <entry key="..\:/pemrograman/UAS/My AppUAS/MyAppUAS/app/src/main/res/layout/activity_drawer.xml" value="0.19021739130434784" />
+        <entry key="..\:/pemrograman/UAS/My AppUAS/MyAppUAS/app/src/main/res/layout/activity_input.xml" value="0.22" />
+        <entry key="..\:/pemrograman/UAS/My AppUAS/MyAppUAS/app/src/main/res/layout/activity_input2.xml" value="0.22" />
+        <entry key="..\:/pemrograman/UAS/My AppUAS/MyAppUAS/app/src/main/res/layout/activity_lingkaran.xml" value="0.18" />
+        <entry key="..\:/pemrograman/UAS/My AppUAS/MyAppUAS/app/src/main/res/layout/activity_login.xml" value="0.18614130434782608" />
+        <entry key="..\:/pemrograman/UAS/My AppUAS/MyAppUAS/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/pemrograman/UAS/My AppUAS/MyAppUAS/app/src/main/res/layout/activity_main2.xml" value="0.22" />
+        <entry key="..\:/pemrograman/UAS/My AppUAS/MyAppUAS/app/src/main/res/layout/activity_main3.xml" value="0.19021739130434784" />
+        <entry key="..\:/pemrograman/UAS/My AppUAS/MyAppUAS/app/src/main/res/layout/activity_splash.xml" value="0.18614130434782608" />
+        <entry key="..\:/pemrograman/UAS/My AppUAS/MyAppUAS/app/src/main/res/layout/activity_tampil.xml" value="0.12771739130434784" />
+        <entry key="..\:/pemrograman/UAS/My AppUAS/MyAppUAS/app/src/main/res/layout/activity_tampil_data2.xml" value="0.19021739130434784" />
+        <entry key="..\:/pemrograman/UAS/My AppUAS/MyAppUAS/app/src/main/res/layout/app_bar_drawer.xml" value="0.19021739130434784" />
+        <entry key="..\:/pemrograman/UAS/My AppUAS/MyAppUAS/app/src/main/res/layout/content_drawer.xml" value="0.19021739130434784" />
+        <entry key="..\:/pemrograman/UAS/My AppUAS/MyAppUAS/app/src/main/res/layout/data_tampil.xml" value="0.25" />
+        <entry key="..\:/pemrograman/UAS/My AppUAS/MyAppUAS/app/src/main/res/layout/form_edit.xml" value="0.25" />
+        <entry key="..\:/pemrograman/UAS/My AppUAS/MyAppUAS/app/src/main/res/layout/form_edit2.xml" value="0.3685185185185185" />
+        <entry key="..\:/pemrograman/UAS/My AppUAS/MyAppUAS/app/src/main/res/layout/fragment_form.xml" value="0.12771739130434784" />
+        <entry key="..\:/pemrograman/UAS/My AppUAS/MyAppUAS/app/src/main/res/layout/fragment_lingkaran.xml" value="0.2" />
+        <entry key="..\:/pemrograman/UAS/My AppUAS/MyAppUAS/app/src/main/res/layout/fragment_slideshow.xml" value="0.19021739130434784" />
+        <entry key="..\:/pemrograman/UAS/My AppUAS/MyAppUAS/app/src/main/res/layout/list.xml" value="0.25" />
+        <entry key="..\:/pemrograman/UAS/My AppUAS/MyAppUAS/app/src/main/res/layout/list2.xml" value="0.25" />
+        <entry key="..\:/pemrograman/UAS/My AppUAS/MyAppUAS/app/src/main/res/layout/nav_header_drawer.xml" value="0.19021739130434784" />
+        <entry key="..\:/pemrograman/UAS/My AppUAS/MyAppUAS/app/src/main/res/menu/activity_main_drawer.xml" value="0.209375" />
+        <entry key="..\:/pemrograman/UAS/My AppUAS/MyAppUAS/app/src/main/res/menu/bottom_navigation.xml" value="0.1" />
+        <entry key="..\:/pemrograman/UAS/My AppUAS/MyAppUAS/app/src/main/res/menu/bottom_navigation_2.xml" value="0.209375" />
+        <entry key="..\:/pemrograman/UAS/My AppUAS/MyAppUAS/app/src/main/res/menu/drawer.xml" value="0.209375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">My AppUAS</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="btn_login">Login</string>
+    <string name="this_is_moveactivity">MAIN MENU</string>
+    <string name="simpan">simpan</string>
+    <string name="nikk">NIK</string>
+    <string name="umur">Umur</string>
+    <string name="asal_institusi">Asal Sekolah</string>
+    <string name="namaa">Nama</string>
+    <string name="nomor_induk_kependudukan">Nomor Induk Kependudukan</string>
+    <string name="usiaa">Usia</string>
+    <string name="alamatt">Alamat</string>
+    <string name="sistem_pendaftaran_mahasiswa">Sistem Pendaftaran Mahasiswa</string>
+    <string name="nama">Nama</string>
+    <string name="jenis_kelamin">Jenis Kelamin</string>
+    <string name="laki_laki">Laki-Laki</string>
+    <string name="perempuan">Perempuan</string>
+    <string name="nik">NIK</string>
+    <string name="usia">Usia</string>
+    <string name="alamat">Alamat</string>
+    <string name="asal_sekolah">Asal Sekolah</string>
+    <string name="gender">Gender</string>
+    <string name="sb">:</string>
+    <string name="log_out">log Out</string>
+    <string name="hasil_pendaftaran">Hasil Pendaftaran</string>
+    <string name="title_activity_drawer">DrawerActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+</resources>
